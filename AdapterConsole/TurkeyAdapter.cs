@@ -8,9 +8,9 @@ namespace AdapterConsole
 	/// </summary>
 	public class TurkeyAdapter : Duck
 	{
-		Turkey turkey;
+		iTurkey turkey;
 
-		public TurkeyAdapter(Turkey turkey)
+		public TurkeyAdapter(iTurkey turkey)
 		{
 			this.turkey = turkey;
 		}

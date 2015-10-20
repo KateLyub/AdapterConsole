@@ -6,7 +6,7 @@ namespace AdapterConsole
 	/// <summary>
 	/// Summary description for TurkeyAdapter.
 	/// </summary>
-	public class DuckAdapter : Turkey
+	public class DuckAdapter : iTurkey
 	{
 		Duck duck;
 
